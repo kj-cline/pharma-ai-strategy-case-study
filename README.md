@@ -114,4 +114,26 @@ This project demonstrates capabilities directly relevant to healthcare analytics
 
 ## Files Included
 
-• PharmaVantage Global Partner Report.pdf — Strategic analysis and AI implementation
+• PharmaVantage Global Partner Report.pdf — Strategic analysis and AI implementation roadmap  
+
+Executive presentation slides available upon request.
+
+---
+
+## Disclaimer
+
+This project was completed as part of an academic consulting engagement. All proprietary, confidential, and sensitive information has been removed. This repository contains only publicly shareable academic and strategic analysis.
+
+---
+
+## Author
+
+Kjetil “KJ” Cline  
+MBA + MS Business Analytics Candidate, The George Washington University  
+
+Healthcare Analytics | AI Product and Program Strategy | Regulated Digital Health Systems  
+
+GitHub: https://github.com/kj-cline  
+LinkedIn: https://linkedin.com/in/kjetilcline  
+
+Actively seeking roles in healthcare analytics, AI product strategy, and regulated digital health systems.
