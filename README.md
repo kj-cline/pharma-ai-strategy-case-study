@@ -1,5 +1,9 @@
 # AI Strategy for Pharmacovigilance and Supply Chain Optimization (Pharmaceutical Case Study)
 
+Graduate consulting project analyzing AI implementation opportunities in pharmacovigilance and regulated pharmaceutical operations, with a focus on improving safety monitoring, regulatory compliance, and operational efficiency.
+
+---
+
 ## Overview
 
 This project presents a strategic AI implementation roadmap designed to improve pharmacovigilance signal detection, regulatory compliance, and operational efficiency within a global pharmaceutical organization. The analysis was conducted as part of a graduate consulting engagement focused on healthcare analytics, regulated systems, and AI-enabled operational transformation.
@@ -65,6 +69,14 @@ These improvements support faster decision-making, enhanced patient safety monit
 
 ---
 
+## Business Value Summary
+
+This project demonstrates how AI can be strategically implemented within regulated pharmaceutical environments to improve patient safety, operational scalability, and regulatory compliance. The analysis highlights the role of AI in accelerating signal detection, reducing manual workload, and enabling faster, data-driven safety decisions across global healthcare systems.
+
+These capabilities are directly relevant to pharmaceutical organizations focused on improving pharmacovigilance, clinical safety, and digital transformation.
+
+---
+
 ## My Role
 
 As part of a graduate consulting team, I contributed to the strategic analysis and development of the AI implementation roadmap. My contributions included:
@@ -102,24 +114,4 @@ This project demonstrates capabilities directly relevant to healthcare analytics
 
 ## Files Included
 
-• PharmaVantage Global Partner Report.pdf — Strategic analysis and AI implementation roadmap  
-
-Executive presentation slides available upon request.
-
----
-
-## Disclaimer
-
-This project was completed as part of an academic consulting engagement. All proprietary, confidential, and sensitive information has been removed. This repository contains only publicly shareable academic and strategic analysis.
-
----
-
-## Author
-
-Kjetil “KJ” Cline  
-MBA + MS Business Analytics Candidate, The George Washington University  
-
-Healthcare Analytics | AI Product and Program Strategy | Regulated Digital Health Systems  
-
-GitHub: https://github.com/kj-cline  
-LinkedIn: https://linkedin.com/in/kjetilcline
+• PharmaVantage Global Partner Report.pdf — Strategic analysis and AI implementation
